@@ -1,0 +1,10 @@
+html 
+inline tags
+block tags
+
+careful with br tags
+
+b vs strong
+i vs em
+(logical text, for text/screen readers)
+presentational vs logical tags

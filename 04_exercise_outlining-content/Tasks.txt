@@ -1,0 +1,7 @@
+1.) Add all semantic elements for the structure (<header>, <main>, <footer>)
+2.) Split up the content into section elements (<article>, <aside>, <nav>, <section>)
+3.) Use div elements to group the three list elements including its heading under "What we do"
+3a.) Use the class attribute in that div to assign it the class "service"
+4.) Use div elements to group the information about the leaders of Wunderman
+4a.) Use the class attribute in that div to assign it the class "leader"
+5.) Include all roles we learned (banner, navigation, main, article, complementary, contentinfo)

@@ -1,0 +1,72 @@
+body {
+  font-family: Arial;
+}
+header {
+  background: #0075be;
+  color: #fff;
+  padding: 10px;
+  height: 80px;
+  line-height: 80px;
+}
+header h1 {
+  margin: 0;
+  float: left;
+}
+header nav {
+  float: right;
+}
+header nav ul {
+  margin: 0;
+}
+header nav li {
+  float: left;
+  list-style: none;
+  margin-right: 10px;
+}
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+main {
+  float: left;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+section {
+  width: 70%;
+  float: left;
+}
+
+section div.service {
+  width: 30%;
+  margin-right: 3%;
+  float: left;
+}
+
+section div.leader {
+  width: 250px;
+  float: left;
+  background: #0075be;
+  padding: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+aside {
+  width: 25%;
+  margin-top: 20px;
+  float: right;
+  padding: 15px;
+  background: #eee;
+}
+
+footer {
+  clear: both;
+  margin-top: 30px;
+  background: #ccc;
+  padding: 5px;
+}

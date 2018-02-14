@@ -1,0 +1,5 @@
+1.) Structure the document using headings (h1-h3)
+2.) Paragraphs should be marked as paragraphs
+3.) The seven content models should be presenten as an unordered list
+4.) The Extra Links should be inside an ordered list and open in a new tab
+5.) The image should be inside a paragraph

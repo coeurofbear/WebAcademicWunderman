@@ -1,0 +1,16 @@
+body {
+  background: #000;
+}
+main,
+footer,
+nav {
+  display: none;
+}
+
+h1 {
+  display: inline-block;
+  background: yellow;
+  border: 1px solid red;
+  color: red;
+  padding: 20px;
+}
